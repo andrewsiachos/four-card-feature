@@ -47,7 +47,7 @@ main{
     width: 350px;
     padding: 30px;
     background-color: white;
-    box-shadow: 1px 1px 10px black;
+    box-shadow: 1px 1px 10px hsl(229, 6%, 66%);
 }
 .card h3{
     font-size: 21px;
